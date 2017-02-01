@@ -1,0 +1,2 @@
+Level@Entrance@You see a stick, what will you do with it?@3@Take it:0 0 10:Skip it:10 0 0:Throw it in the wall:0 10 0
+Level@Door@Strange door@2@Knock:10 0 0:Peek:0 10 0
